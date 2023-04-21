@@ -1,7 +1,7 @@
 {
   "orgName": "my company",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"], [“ServiceCloudVoicePartnerTelephony”]
+  "features": ["EnableSetPasswordInApi", "ServiceCloudVoicePartnerTelephony"]
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
